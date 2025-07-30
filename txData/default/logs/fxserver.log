@@ -1,0 +1,39 @@
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [60548] FXServer Starting - 7/30/2025, 3:36:48 PM      
+║             TXADMIN║ ================================================================
+║             TXADMIN║ setr "txAdmin-locale" "en"
+║             TXADMIN║ set "txAdmin-serverName" "SceneCore"
+║             TXADMIN║ set "txAdmin-checkPlayerJoin" "true"
+║             TXADMIN║ set "txAdmin-menuAlignRight" "false"
+║             TXADMIN║ set "txAdmin-menuPageKey" "Tab"
+║             TXADMIN║ set "txAdmin-playerModePtfx" "true"
+║             TXADMIN║ set "txAdmin-hideAdminInPunishments" "true"
+║             TXADMIN║ set "txAdmin-hideAdminInMessages" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultAnnouncement" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultDirectMessage" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultWarning" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultScheduledRestartWarning" "false"
+║             TXADMIN║ txaEvent "configChanged" "{}"
+[           resources] Scanning resources.
+[           resources] Found 1 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Couldn't find resource sessionmanager.
+[ citizen-server-impl] Couldn't find resource spawnmanager.
+[ citizen-server-impl] Couldn't find resource mapmanager.
+[ citizen-server-impl] Couldn't find resource basic-gamemode.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [00_System].
+[ citizen-server-impl] Couldn't find resource category [00_Framework].
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://j3di-vr5lre.users.cfx.re/

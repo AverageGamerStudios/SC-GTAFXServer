@@ -1,0 +1,9 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 17715 Starting - 7/30/2025, 3:24:03 PM
+================================================================
+================================================================
+======== txAdmin v8.0.1 atop fxserver 17715 Starting - 7/30/2025, 3:35:55 PM
+================================================================
+[15:36:21][J3DI] created admins file
+[15:36:48][J3DI] Config changes: general.serverName, server.dataPath
+[15:36:48][J3DI] Changing global/fxserver settings via setup stepper.

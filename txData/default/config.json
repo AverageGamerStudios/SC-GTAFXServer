@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "SceneCore"
+  },
+  "server": {
+    "dataPath": "C:/Users/sslim/Documents/GitHub/SC-GTAFXServer/Server Artifacts/"
+  }
+}
